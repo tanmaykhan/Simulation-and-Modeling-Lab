@@ -1,4 +1,11 @@
 # Simulation-Lab-Assignment-01
+
+Name: Sarowar Hossain Tanmay
+University: University of Information Technology and Sciences
+Department: CSE
+Course: Simulation and Modeling Lab
+
+
 This repository is about some Simulation and Modeling Lab task practice.
 
 In this repository, I have tried to solve 3 problem (Tasks) for simulation lab using Google Colab. These tasks are :-
