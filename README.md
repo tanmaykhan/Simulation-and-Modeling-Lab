@@ -1,9 +1,4 @@
-### Name : Sarowar Hossain Tanmay  
-### ID : 2215151024  
-### Section : 7A1  
-### University : University of Information Technology and Sciences  
-### Department : CSE  
-### Course : Simulation and Modeling Lab 
+### Name : Sarowar Hossain Tanmay <br> ID : 2215151024 <br> Section : 7A1 <br> University : University of Information Technology and Sciences <br> Department : CSE <br> Course : Simulation and Modeling Lab 
 
 
 This repository is about some Simulation and Modeling Lab task practice.
