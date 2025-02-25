@@ -1,10 +1,5 @@
-Lab Assignment 02
-
-Name: Sarowar Hossain Tanmay. 
-ID: 2215151024
-University: University of Information Technology and Sciences. 
-Department: CSE. 
-Course: Simulation and Modeling Lab.
+### Lab Assignment 02
+### ID: 2215151024
 
 This repository is about some Simulation and Modeling Lab task practice. In this repository, I have tried to solve some problem (Tasks) for simulation lab using python in Google Colab. These tasks are :-
 
