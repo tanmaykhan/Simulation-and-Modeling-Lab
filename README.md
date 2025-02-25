@@ -2,7 +2,7 @@
 
 
 This repository is about some Simulation and Modeling Lab task practice.
-In this repository, I have tried to solve 3 problem (Tasks) for simulation lab using python in Google Colab. These tasks are :-
+In this repository, I have tried to solve some problems (Tasks) for simulation lab using python in Google Colab. These tasks are :-
 
 1. Generate two vectors with 15 random floats each, plot them on the same graph, label the axes, and add a title.
 2. Create a 4x4 matrix with random values, visualize it as a heatmap, and label the rows and columns.
