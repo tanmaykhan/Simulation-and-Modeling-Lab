@@ -1,4 +1,4 @@
-### Lab Assignment - 02 <br> ID: 2215151024
+### Lab Assignment - 02 <br> ID : 2215151024
 
 This repository is about some Simulation and Modeling Lab task practice. In this repository, I have tried to solve some problem (Tasks) for simulation lab using python in Google Colab. These tasks are :-
 
