@@ -17,4 +17,4 @@ In this repository, I have tried to solve some problems (Tasks) for simulation l
    - Interpret and visualize the result at a 0.05 significance level.
 
 
-N.B. :- I have provided these (.ipynb) files. In that ipynb file, You can find these codes.
+N.B. :- I have provided these (.ipynb) files. In those ipynb files, You can find the codes.
