@@ -18,8 +18,7 @@ In this repository, I have tried to solve some problems (Tasks) for simulation l
 6. Generate two sets of from a normal distribution and perform a two-sample t-test.
    - Randomly generate 50 values from a normal distribution with a chosen mean (μ1) and standard deviation.
    - Randomly generate 50 values from a normal distribution with a different mean (μ2) and standard deviation.
- 
- Use and determine whether the means differ significantly.
+   - Use and determine whether the means differ significantly.
 
 
 N.B. :- I have provided these (.ipynb) files. In those ipynb files, You can find the codes.
